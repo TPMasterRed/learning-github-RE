@@ -1,2 +1,2 @@
 # learning-github-RE
-A = "Hello, World"
+print(A)
